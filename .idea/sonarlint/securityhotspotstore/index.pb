@@ -16,3 +16,5 @@ _
 /langauge-basics/src/arrays/SmallestInArray.java,6\1\613fa2003f4e90f7a6bf52ad4203358265eb8510
 _
 /langauge-basics/src/arrays/LeftRotateArray.java,b\7\b70a924590d1d5ef63923a5dc8cd92f65a6dbc00
+[
++langauge-basics/src/arrays/PushAllZero.java,a\7\a7eafba62fb0c182ec0722a69ff1fc16d67be12a
