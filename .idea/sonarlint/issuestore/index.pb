@@ -18,3 +18,15 @@ _
 /langauge-basics/src/arrays/LeftRotateArray.java,b\7\b70a924590d1d5ef63923a5dc8cd92f65a6dbc00
 [
 +langauge-basics/src/arrays/PushAllZero.java,a\7\a7eafba62fb0c182ec0722a69ff1fc16d67be12a
+c
+3langauge-basics/src/arrays/striver/PushAllZero.java,4\3\43608d6450741d22096acc446041c51f4bffca8a
+e
+5langauge-basics/src/arrays/striver/SecondLargest.java,5\4\54964b67ec6961d2cd34d8bc1eae6be0eb82f90d
+f
+6langauge-basics/src/arrays/striver/LargestInArray.java,2\7\276463f191830a64ecaaa1a18333bb4d7d2dc946
+g
+7langauge-basics/src/arrays/striver/SmallestInArray.java,a\6\a6c017d8c612d1151ab8a238fc8a67f838c6e518
+g
+7langauge-basics/src/arrays/striver/LeftRotateArray.java,1\8\181a3e321bdd78611be099e4acf43548c45640de
+d
+4langauge-basics/src/arrays/striver/LinearSearch.java,8\2\82bdf2afab1bfa20abbc5b5a445debfc56cea2ac

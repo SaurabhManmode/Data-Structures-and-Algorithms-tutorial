@@ -1,4 +1,4 @@
-package arrays;
+package arrays.striver;
 
 import java.util.Arrays;
 
