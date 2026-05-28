@@ -12,7 +12,30 @@ public class IntersectionOfArray {
 
         List<Integer> list = findTheIntersection(arr1, arr2);
 
+        List<Integer> theIntersection2 = findTheIntersection2(arr1, arr2);
+        System.out.println(theIntersection2);
+
         System.out.println(list);
+    }
+
+    private static List<Integer> findTheIntersection2(int[] arr1, int[] arr2) {
+        int i = 0;
+        int j = 0;
+        List<Integer> list = new ArrayList<>();
+        while (i < arr1.length && j < arr2.length) {
+
+            if (arr1[i] < arr2[j]) {
+                i++;
+            } else if (arr2[j] < arr1[i]) {
+                j++;
+
+            } else {
+                list.add(arr1[i]);
+                i++;
+                j++;
+            }
+        }
+        return list;
     }
 
     private static List<Integer> findTheIntersection(int[] arr1, int[] arr2) {
