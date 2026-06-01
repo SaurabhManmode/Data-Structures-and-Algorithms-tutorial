@@ -28,3 +28,5 @@ i
 9langauge-basics/src/arrays/striver/FindMissingNumber.java,b\4\b471b077bae9a308a8623dc4136a0e42bbf06611
 j
 :langauge-basics/src/arrays/gfg/PrintAlternateElements.java,2\c\2ca8b71f7add1127c9a698833a98ffde3e2864e3
+a
+1langauge-basics/src/arrays/gfg/LeaderInArray.java,1\e\1e8e70a1f9d0521abc30f48ee7b6b2ae8017ec9b
