@@ -38,3 +38,5 @@ b
 0langauge-basics/src/arrays/gfg/ReverseArray.java,1\4\142b4680443becc205f48823a54d7a8b0225073e
 g
 7langauge-basics/src/arrays/gfg/RightRotateArrayByD.java,1\9\19129237b1c9d7fa982b1adc139574ed0dbd9260
+e
+5langauge-basics/src/arrays/gfg/PushAllZerosToEnd.java,7\7\779d7b3e1e9e10d3f39ed6ccd8d06740489b6f2b
