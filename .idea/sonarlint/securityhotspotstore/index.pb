@@ -40,3 +40,7 @@ g
 7langauge-basics/src/arrays/gfg/RightRotateArrayByD.java,1\9\19129237b1c9d7fa982b1adc139574ed0dbd9260
 e
 5langauge-basics/src/arrays/gfg/PushAllZerosToEnd.java,7\7\779d7b3e1e9e10d3f39ed6ccd8d06740489b6f2b
+o
+?langauge-basics/src/arrays/gfg/MakeIncrementByKToMakeEqual.java,0\3\0308adaa5c69a9c4e36b10b35a2d3f3a1aaa160e
+]
+-langauge-basics/src/variables/VariableEx.java,1\f\1fed92f2086d7e6cf15bf8922ab73bc7fa7342b7
