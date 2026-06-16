@@ -44,3 +44,5 @@ o
 ?langauge-basics/src/arrays/gfg/MakeIncrementByKToMakeEqual.java,0\3\0308adaa5c69a9c4e36b10b35a2d3f3a1aaa160e
 ]
 -langauge-basics/src/variables/VariableEx.java,1\f\1fed92f2086d7e6cf15bf8922ab73bc7fa7342b7
+d
+4langauge-basics/src/arrays/gfg/MinCostToMakeOne.java,0\a\0ac3e907b469e9c9671c383d88f38bc392be5c39
