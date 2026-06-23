@@ -48,3 +48,5 @@ d
 4langauge-basics/src/arrays/gfg/MinCostToMakeOne.java,0\a\0ac3e907b469e9c9671c383d88f38bc392be5c39
 l
 <langauge-basics/src/arrays/gfg/DuplicateWithinKDistance.java,0\8\08b258e0b75ecd044ad109c01d0c8956f4aca0d4
+]
+-langauge-basics/src/arrays/gfg/WaveArray.java,d\7\d74b8ea43838cb91562c63571e7048059437c993
