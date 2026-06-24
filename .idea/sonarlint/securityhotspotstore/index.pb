@@ -50,3 +50,5 @@ l
 <langauge-basics/src/arrays/gfg/DuplicateWithinKDistance.java,0\8\08b258e0b75ecd044ad109c01d0c8956f4aca0d4
 ]
 -langauge-basics/src/arrays/gfg/WaveArray.java,d\7\d74b8ea43838cb91562c63571e7048059437c993
+d
+4langauge-basics/src/arrays/gfg/SumOfAllSubArray.java,8\6\8668107f5001e44557bc9fea23d0b8671765a904
