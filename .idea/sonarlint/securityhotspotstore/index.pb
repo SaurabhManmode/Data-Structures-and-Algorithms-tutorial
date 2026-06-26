@@ -58,3 +58,5 @@ l
 <langauge-basics/src/algorithmcomplexity/LogarithmicTime.java,3\1\31e78944332149b9cf91a2ae525eea963cfd4e8c
 g
 7langauge-basics/src/algorithmcomplexity/LinearTime.java,9\2\9271103b4135c8802d16c9659ed3d465a219466f
+j
+:langauge-basics/src/algorithmcomplexity/QuadraticTime.java,9\f\9f3dff24c9c97a6f5dfc2f6755727580a6157182
