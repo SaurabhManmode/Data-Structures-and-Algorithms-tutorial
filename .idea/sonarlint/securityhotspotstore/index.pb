@@ -72,3 +72,5 @@ f
 6langauge-basics/src/arrays/gfg/FindDuplicateFloyd.java,c\0\c0723bbc70d24c4897cfa2600bed23b0641f2f31
 e
 5langauge-basics/src/arrays/gfg/SortedSubSequence.java,2\9\29bab3549ce7335d3813e8b3731b2305aea35c57
+d
+4langauge-basics/src/arrays/gfg/EquilibriumIndex.java,9\f\9fb5a51cf71ebc61b4f0f8b3a03fd8c8df574197
