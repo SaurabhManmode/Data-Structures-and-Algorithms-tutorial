@@ -74,3 +74,5 @@ e
 5langauge-basics/src/arrays/gfg/SortedSubSequence.java,2\9\29bab3549ce7335d3813e8b3731b2305aea35c57
 d
 4langauge-basics/src/arrays/gfg/EquilibriumIndex.java,9\f\9fb5a51cf71ebc61b4f0f8b3a03fd8c8df574197
+\
+,langauge-basics/src/arrays/gfg/EqualSum.java,f\b\fbe712c4d2ed3c13cf5da42a730f60800d1a24cb
