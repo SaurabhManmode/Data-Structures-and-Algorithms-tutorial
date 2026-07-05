@@ -76,3 +76,5 @@ d
 4langauge-basics/src/arrays/gfg/EquilibriumIndex.java,9\f\9fb5a51cf71ebc61b4f0f8b3a03fd8c8df574197
 \
 ,langauge-basics/src/arrays/gfg/EqualSum.java,f\b\fbe712c4d2ed3c13cf5da42a730f60800d1a24cb
+`
+0langauge-basics/src/arrays/gfg/BinarySearch.java,2\2\225d7c11ad85447a3823010678fe52e5f44f91da
