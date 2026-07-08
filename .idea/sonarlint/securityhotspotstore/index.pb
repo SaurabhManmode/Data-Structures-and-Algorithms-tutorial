@@ -78,3 +78,5 @@ d
 ,langauge-basics/src/arrays/gfg/EqualSum.java,f\b\fbe712c4d2ed3c13cf5da42a730f60800d1a24cb
 `
 0langauge-basics/src/arrays/gfg/BinarySearch.java,2\2\225d7c11ad85447a3823010678fe52e5f44f91da
+a
+1langauge-basics/src/arrays/gfg/SelectionSort.java,5\5\55d2b1567520155c3e9dbc22ddb75db899d7107f
