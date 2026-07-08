@@ -80,3 +80,5 @@ d
 0langauge-basics/src/arrays/gfg/BinarySearch.java,2\2\225d7c11ad85447a3823010678fe52e5f44f91da
 a
 1langauge-basics/src/arrays/gfg/SelectionSort.java,5\5\55d2b1567520155c3e9dbc22ddb75db899d7107f
+a
+1langauge-basics/src/arrays/gfg/InsertionSort.java,1\6\16cb8f6aeac36f7859587b0dd03dd2787af90291
