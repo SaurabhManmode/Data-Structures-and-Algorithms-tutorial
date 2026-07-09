@@ -82,3 +82,5 @@ a
 1langauge-basics/src/arrays/gfg/SelectionSort.java,5\5\55d2b1567520155c3e9dbc22ddb75db899d7107f
 a
 1langauge-basics/src/arrays/gfg/InsertionSort.java,1\6\16cb8f6aeac36f7859587b0dd03dd2787af90291
+]
+-langauge-basics/src/arrays/gfg/QuickSort.java,d\3\d3954db9f247858107bb27599f45650e818adf86
