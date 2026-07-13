@@ -84,3 +84,5 @@ a
 1langauge-basics/src/arrays/gfg/InsertionSort.java,1\6\16cb8f6aeac36f7859587b0dd03dd2787af90291
 ]
 -langauge-basics/src/arrays/gfg/QuickSort.java,d\3\d3954db9f247858107bb27599f45650e818adf86
+b
+2langauge-basics/src/arrays/gfg/NaivePartition.java,8\e\8e7e33d6f5ec4f689e140f8767e8d0210f77f400
