@@ -86,3 +86,5 @@ a
 -langauge-basics/src/arrays/gfg/QuickSort.java,d\3\d3954db9f247858107bb27599f45650e818adf86
 b
 2langauge-basics/src/arrays/gfg/NaivePartition.java,8\e\8e7e33d6f5ec4f689e140f8767e8d0210f77f400
+b
+2langauge-basics/src/arrays/gfg/HoarePartition.java,7\8\78c97e8ae81422bf8970a0752c6857c9da80a8aa
