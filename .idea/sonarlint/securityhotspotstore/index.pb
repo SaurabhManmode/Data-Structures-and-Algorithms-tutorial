@@ -94,3 +94,5 @@ _
 .langauge-basics/src/arrays/gfg/CyclicSort.java,b\b\bb1b3f7986dbc02c669d62e612987e8bf038a481
 \
 ,langauge-basics/src/arrays/gfg/HeapSort.java,2\4\24b39119ed6ab1585f0d763ad3da8c2b5dc3eb8a
+i
+9langauge-basics/src/arrays/gfg/twopointers/SumOfPair.java,9\3\93e12b761d32aa6e060fc9ea3dfcf0f7fa05a986
