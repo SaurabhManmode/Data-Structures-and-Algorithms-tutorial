@@ -102,3 +102,5 @@ i
 9langauge-basics/src/arrays/gfg/twopointers/MoveZeros.java,e\8\e8f3554e75e7f7d32784cdc2456811dfb951177f
 u
 Elangauge-basics/src/arrays/gfg/twopointers/UniqueElementsInArray.java,c\e\ce634fadbf80a301050ecddc3a18da045fbeee21
+g
+7langauge-basics/src/arrays/gfg/prefixsum/PrefixSum.java,f\9\f96f0801f9f33509e85a40f4010322850dfdd78e
