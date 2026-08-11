@@ -110,3 +110,5 @@ b
 2langauge-basics/src/arrays/gfg/RearrangeArray.java,e\7\e7ae0b1e2d58e9e9a26efaa83adc493d0df4a334
 f
 6langauge-basics/src/arrays/gfg/MaximumCircularSum.java,6\9\697e05804a23d78f6551ce9bb404aa70bdbf7630
+j
+:langauge-basics/src/arrays/gfg/SlidingWindowTechnique.java,7\c\7c14e1964c9690b4c4b90c8936f793c1c880f86a
