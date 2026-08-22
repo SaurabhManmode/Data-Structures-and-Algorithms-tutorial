@@ -120,3 +120,5 @@ j
 :langauge-basics/src/arrays/gfg/hashing/SimpleChaining.java,b\9\b98701e0c874b9933bc179a89a35f9f14580eb10
 u
 Elangauge-basics/src/arrays/gfg/hashing/LinearProbingOpenChaining.java,f\1\f1a5c0cb1f322168031d2ec3b9bef4a0998f22e0
+g
+7langauge-basics/src/arrays/gfg/binarysearch/BSalgo.java,5\c\5c61fc2d5f6e0e59904f569efd31fe6d32d6daf8
