@@ -122,3 +122,5 @@ u
 Elangauge-basics/src/arrays/gfg/hashing/LinearProbingOpenChaining.java,f\1\f1a5c0cb1f322168031d2ec3b9bef4a0998f22e0
 g
 7langauge-basics/src/arrays/gfg/binarysearch/BSalgo.java,5\c\5c61fc2d5f6e0e59904f569efd31fe6d32d6daf8
+m
+=langauge-basics/src/arrays/gfg/binarysearch/BSTRecursive.java,4\8\480cff4ed836a52c752c46f8f2d26554a2ce4777
