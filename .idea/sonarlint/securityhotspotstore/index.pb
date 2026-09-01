@@ -126,3 +126,7 @@ m
 =langauge-basics/src/arrays/gfg/binarysearch/BSTRecursive.java,4\8\480cff4ed836a52c752c46f8f2d26554a2ce4777
 l
 <langauge-basics/src/arrays/gfg/hashing/QuadraticProbing.java,f\0\f04cfefb794fef4f0bba15154c9f11e6e89aad10
+i
+9langauge-basics/src/arrays/gfg/hashing/DoubleHashing.java,f\7\f72f8405de63497a6463cf60cbc4c11c45e8f7df
+g
+7langauge-basics/src/arrays/gfg/hashing/CheckSubset.java,b\b\bb1f7ea5822eccc1bdb209c24645b63f4447f92a
