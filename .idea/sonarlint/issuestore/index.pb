@@ -150,3 +150,5 @@ b
 2langauge-basics/src/arrays/gfg/hashing/TwoSum.java,9\9\99db1e6eaac1ecca70ed8599a9e8fb3fd9facfdf
 f
 6langauge-basics/src/arrays/gfg/hashing/CountPairs.java,7\4\74889e0f80cdbcdddd624fe9613de6f7aadde627
+r
+Blangauge-basics/src/arrays/gfg/hashing/AbsoluteDifferencePair.java,c\8\c80132bd6db45ff56aa01902689f371f51f84aed
